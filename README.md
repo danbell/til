@@ -7,13 +7,21 @@ My collection of tech things that I learn from day-to-day.
 ### Categories
 
 - [React](#react)
+- [HTML](#html)
 
+---
 
 ### React
 
 - nothing here yet
 
------------
+---
+
+### HTML
+
+- [only inputs with a "name" attribute get passed in a form action](./html/form.md)
+
+---
 
 ### About
 
